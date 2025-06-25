@@ -33,8 +33,12 @@ This project was developed during my internship at the **Institute for Plasma Re
 ---
 
 ## 📷 Visuals
+![WhatsApp Image 2025-06-25 at 21 50 03_ecfa0d24](https://github.com/user-attachments/assets/003fec62-1f7a-4ea0-95d4-94b24ecc9cb9)
+![IMG-20250621-WA0006 1](https://github.com/user-attachments/assets/baee772f-431b-4a60-850b-089c423ac2d3)
+![simulation](https://github.com/user-attachments/assets/5acbe7cf-dcd0-4756-a687-387f997140b2)
+![gui](https://github.com/user-attachments/assets/783f814e-70a1-4fa3-8061-cac1b37fcd2a)
 
-*(Insert oscilloscope image showing ramp signal and GUI screenshot here)*
+
 
 ---
 
